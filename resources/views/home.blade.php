@@ -71,12 +71,12 @@
 
                 <div style="margin-bottom:15px;border-bottom-style: solid;">
                     <h3 style="font-size:16px; color:green">Max Wallet</h3>
-                    <h4 style="font-size:24px; color:green">3%</h4>
+                    <h4 style="font-size:24px; color:green">4%</h4>
                 </div>
 
                 <div style="margin-bottom:15px;">
                     <h3 style="font-size:16px; color:green">Max Tx</h3>
-                    <h4 style="font-size:24px; color:green">3%</h4>
+                    <h4 style="font-size:24px; color:green">4%</h4>
                 </div>
             </div>
         </div>
